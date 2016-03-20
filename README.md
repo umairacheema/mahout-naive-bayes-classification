@@ -1,8 +1,8 @@
 
 
-Mahout-Naive Bayesian Classification Example
+Mahout-Naive Bayesian Classification 
 ============================================
-This repository is a fork of mahout-naive-bayes example project by Frank Dang.
+This is a demonstration of detecting Spam emails from non-spam using Naive Bayesian Classification algorithm on Mahout.
 
 In order to classify a text document using NaiveBayesClassifier the user first needs to copy the model, labelindex file, dictionary and document frequency from HDFS to local filesystem.
 
